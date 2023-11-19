@@ -6,13 +6,12 @@
 /*   By: misargsy <misargsy@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/20 00:53:33 by misargsy          #+#    #+#             */
-/*   Updated: 2023/10/19 08:55:39 by misargsy         ###   ########.fr       */
+/*   Updated: 2023/11/19 21:52:02 by misargsy         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef LIBFT_H
 # define LIBFT_H
-# include "ft_printf.h"
 # include "get_next_line.h"
 # include <unistd.h>
 # include <stdlib.h>
